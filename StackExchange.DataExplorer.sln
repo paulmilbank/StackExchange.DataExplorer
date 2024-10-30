@@ -7,11 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{32673276
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExchange.DataExplorer.Tests", "Tests\StackExchange.DataExplorer.Tests\StackExchange.DataExplorer.Tests.csproj", "{B2FCDF3D-5D03-4523-AADC-BF03F3F951BF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{9AA657ED-83C4-4AF1-B8A1-54F23D315A29}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{9AA657ED-83C4-4AF1-B8A1-54F23D315A29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExchange.Migrator", "Src\StackExchange.Migrator\StackExchange.Migrator.csproj", "{39FC1385-0968-47BF-8E65-0A052E60B3B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExchange.Migrator", "Source\StackExchange.Migrator\StackExchange.Migrator.csproj", "{39FC1385-0968-47BF-8E65-0A052E60B3B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExchange.DataExplorer", "Src\StackExchange.DataExplorer\StackExchange.DataExplorer.csproj", "{A61E496C-4A94-4142-8F6F-AFDAED600808}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExchange.DataExplorer", "Source\StackExchange.DataExplorer\StackExchange.DataExplorer.csproj", "{A61E496C-4A94-4142-8F6F-AFDAED600808}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
